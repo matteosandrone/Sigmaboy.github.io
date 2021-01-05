@@ -64,7 +64,7 @@
 
 
 body {
-	background-color: #1d1d1d;
+	background: linear-gradient(45deg,	#390030, #9198e5);
 	border: none;
 	color: #444;
 	font-family: "Roboto",sans-serif;
@@ -108,3 +108,17 @@ body {
 	color: #6c13c4;
   }
   
+  a:link {
+	text-decoration: none;
+  }
+  
+  a:visited {
+	text-decoration: none;
+  }
+  
+  a:hover {
+	text-decoration: none;
+  }
+  
+  a:active {
+	text-decoration: none;
